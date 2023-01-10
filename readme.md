@@ -1,3 +1,6 @@
+# Automation_Demo
+
+
 To check the Test Automation script go to **Cypress->e2e->test-automation->AutomationScript.cy.js**
 
 Couple of notes: I'm also using cy.screenshot() to capture a screenshot after certain events.
